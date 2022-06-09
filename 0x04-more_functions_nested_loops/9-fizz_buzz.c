@@ -10,18 +10,17 @@
 int main(void)
 {
 	int i
-	printf("Enter the number :");
 	scanf("%d");
 	for (i = 1; i <= 100; i++)
 	{
 		if (i % 15 == 0)
-			printf("FizzBuzz\t");
+			printf("FizzBuzz\n");
 		else if ((i % 3 == 0)
-			printf("Fizz\t");
+			printf("Fizz\n");
 		else if ((i % 5) == 0)
-			printf("Buzz\t");
+			printf("Buzz\n");
 		else
-			printf("%d\t", i);
+			printf("%d\n", i);
 	}
 	return (0);
 }
