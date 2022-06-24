@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- *Author: Aphiri Dimpho 
+ *Author: Aphiri Dimpho
  *File   : 1-arg.c
  * main - prints the number of arguments passed into it.
  * @argc: number of command line arguments.
