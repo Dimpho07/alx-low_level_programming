@@ -1,3 +1,4 @@
+#include "main.h"
 /**
 *Author:  Aphiri Dimpho
 *File  :  100-atoi.c
