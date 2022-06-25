@@ -1,7 +1,6 @@
 #include "main.h"
+
 /**
-*Author: Aphiri Dimpho 
-*File  : 9-strcpy.c
 * _strcpy - Copy paste string
 *@dest: destination
 *@src: source

@@ -1,8 +1,7 @@
 #include "main.h"
-#include <stddef.h> 
+#include <stddef.h>
+
 /**
-*Author:  Aphiri Dimpho
-*File  :  2-strchr.c
 * _strchr - Returns a pointer to the first occurrence
 *of the character c in the string s, or NULL if the
 *character is not found

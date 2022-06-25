@@ -1,8 +1,6 @@
 #include "main.h"
 
 /**
-*Author: Aphiri Dimpho 
-*File  : 3-strcmp.c
 * _strcmp - Function which compare two strings and
 *@s1: first string
 *@s2:second string

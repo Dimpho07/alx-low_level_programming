@@ -1,7 +1,6 @@
 #include "main.h"
+
 /**
-*Author:  Aphiri Dimpho
-*File  :  3-strspn.c
 * _strspn - search the number of bytes in the initial
 * segment of s which consist only of bytes from accept
 *@s:segment targeted

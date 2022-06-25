@@ -1,7 +1,6 @@
 #include "main.h"
+
 /**
-*Author: Aphiri Dimpho
-* File : 1-memcpy.c
 * _memcpy - The _memcpy() function copies n bytes
 * from memory area src to memory area dest
 *@dest:area where bytes are copied to

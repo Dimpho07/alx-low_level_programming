@@ -1,7 +1,6 @@
 #include "main.h"
+
 /**
-*Author: Aphiri Dimpho
-*File  : 4-strpbrk.c
 * _strpbrk - The _strpbrk() function locates the first
 * occurrence in the string s of any of the bytes in
 *the string accept

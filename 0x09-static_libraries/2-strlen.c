@@ -1,7 +1,6 @@
 #include "main.h"
+
 /**
- *Author:  Aphiri Dimpho 
- *File  :  2-strlen.c
  * _strlen - returns the length of a string
  * @s: string
  *Return: returns lenght;

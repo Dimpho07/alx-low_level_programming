@@ -1,7 +1,6 @@
 #include "main.h"
+
 /**
- *Author:  Aphiri Dimpho
- *File  :  3-puts.c
  * _puts - prints a string
  * @str: string to print
  *

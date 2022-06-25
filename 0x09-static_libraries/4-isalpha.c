@@ -1,7 +1,6 @@
 #include "main.h"
+
 /**
-*Author: Aphiri Dimpho
-*File  : 4-isalpha.c
 * _isalpha - controls if a character is alphabetical
 *@c: character to be verified
 *Return: return 0 or 1

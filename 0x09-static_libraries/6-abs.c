@@ -1,7 +1,6 @@
 #include "main.h"
+
 /**
-*Author: Aphiri Dimpho
-*File  : 6-abs.c
 * _abs - prints the absolute value of a number
 *@i: number targeted
 *Return: returns 0

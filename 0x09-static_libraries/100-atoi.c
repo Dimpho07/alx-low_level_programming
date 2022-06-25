@@ -1,7 +1,6 @@
 #include "main.h"
+
 /**
-*Author:  Aphiri Dimpho
-*File  :  100-atoi.c
 * _atoi - changes a string to an int
 * @s: the string to be changed
 *
